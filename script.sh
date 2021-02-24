@@ -8,8 +8,8 @@ schema:
 	data: asfjhkjdfbksdgh/sd/f/gfd/hthththt/h/trh//hr
 schema:
 	topic-key: test-topic3
-	compatability: forward
-	data: asfjhkjdfbksdgh/sd/f/gfd/hthththt/h/trh//hr
+	compatability: backward
+	data: asfjhkjdfbksdgh/sd/f/gfd/hthththt/h/trh//dnbdsd
 schema:
 	topic-key: test-topic4
 	compatability: backward
