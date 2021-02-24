@@ -1,17 +1,22 @@
-iicdnns cn dsmn dsnvvDSSgFg
-fs
-g
-fsg
-s
-gs
-fghggfjhfjfggfdg
-dfg
-df
-gd
-h
-fj
-ghj
-hgjh
-kladflkaflkalf
-asmnn asfba
-asffnasbfasbfjsnf
+schema:
+	topic-key: test-topic1
+	compatability: forward
+	data: asfjhkjdfbksdgh/sd/f/gfd/hthththt/h/trh//hr
+schema:
+	topic-key: test-topic2
+	compatability: backward
+	data: asfjhkjdfbksdgh/sd/f/gfd/hthththt/h/trh//hr
+schema:
+	topic-key: test-topic3
+	compatability: forward
+	data: asfjhkjdfbksdgh/sd/f/gfd/hthththt/h/trh//hr
+schema:
+	topic-key: test-topic4
+	compatability: backward
+	data: asfjhkjdfbksdgh/sd/f/gfd/hthththt/h/trh//hr
+schema:
+	topic-key: test-topic5
+	compatability: backward
+	data: asfjhkjdfbksdgh/sd/f/gfd/hthththt/h/trh//hr
+
+	
