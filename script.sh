@@ -13,5 +13,7 @@ schema:
 schema:
 	topic-key: test-topic5 compatability: backward
 	data: asfjhkjdfbksdgh/sd/f/gfd/hthththt/h/trh//hr/jdfh
-
+schema:
+	topic-key: test-topic6 compatability: backward
+	data: asfjhkjdfbksdgh/sd/f/gfd/hthththt/h/trh//hr/jdfh
 	
